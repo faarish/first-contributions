@@ -251,6 +251,7 @@ Pereira
 - [Sowmya Tejaswini] (https://github.com/Tejaswini-628)
 - Sujith Siddi
 - [Sharmila pusarla](https://github.com/spusarla23)
+- [Salman Farish] (https://github.com/faarish)
 -Priyanshu
 - B1ade-Z
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
